@@ -86,6 +86,7 @@
       "minecraft:grove": "2025-06-11 20:12:10 +0000",
       "minecraft:cold_ocean": "2025-06-08 17:57:18 +0000",
       "minecraft:forest": "2025-06-08 18:01:52 +0000",
+      "minecraft:lush_caves": "2025-07-08 22:13:39 +0000",
       "minecraft:desert": "2025-07-01 21:35:12 +0000",
       "minecraft:windswept_forest": "2025-06-09 08:13:29 +0000",
       "minecraft:jungle": "2025-06-11 21:54:24 +0000",
@@ -578,6 +579,7 @@
       "magnolia_log": "2025-06-17 21:18:55 +0000",
       "yellow_bioshroom_stem": "2025-06-11 07:20:03 +0000",
       "larch_log": "2025-06-11 08:43:51 +0000",
+      "eucalyptus_log": "2025-07-08 22:10:10 +0000",
       "mauve_log": "2025-06-17 05:31:42 +0000",
       "brimwood_log": "2025-06-27 19:30:19 +0000",
       "silver_birch_log": "2025-06-09 05:33:33 +0000",
@@ -11205,9 +11207,213 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/eucalyptus_pressure_plate": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-07-08 22:10:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
       "has_item": "2025-07-08 21:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-08 22:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-08 22:17:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_button": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-07-08 22:10:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/eucalyptus_sign": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-07-08 22:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-08 22:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-08 22:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-08 22:17:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/eucalyptus_branch_from_eucalyptus_log": {
+    "criteria": {
+      "has_log": "2025-07-08 22:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-08 22:17:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-07-08 22:17:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-08 22:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-08 22:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-08 22:17:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-07-08 22:17:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-07-08 22:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-08 22:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-08 22:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-08 22:17:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_planks": {
+    "criteria": {
+      "has_logs": "2025-07-08 22:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-08 22:17:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_trapdoor": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-07-08 22:10:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/eucalyptus_fence": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-07-08 22:10:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_fence_gate": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-07-08 22:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-08 22:17:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_wood": {
+    "criteria": {
+      "has_log": "2025-07-08 22:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-08 22:17:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-07-08 22:17:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_slab": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-07-08 22:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-08 22:17:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_door": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-07-08 22:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-08 22:17:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_stairs": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-07-08 22:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-08 22:17:57 +0000"
     },
     "done": true
   },
