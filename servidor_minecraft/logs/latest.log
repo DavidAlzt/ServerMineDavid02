@@ -299,3 +299,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [08Jul2025 21:42:35.485] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4214cf8c[id=<null>,name=Manuel,properties={},legacy=false] (/127.17.69.253:37807) lost connection: Disconnected
 [08Jul2025 21:43:14.879] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@23332b0e[id=<null>,name=Manuel,properties={},legacy=false] (/127.17.69.253:35957) lost connection: Disconnected
 [08Jul2025 21:43:25.230] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@49c8ed9a[id=<null>,name=Manuel,properties={},legacy=false] (/127.17.69.253:38951) lost connection: Disconnected
+[08Jul2025 21:43:39.459] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Manuel[/127.17.69.253:40021] logged in with entity id 2379 at (966.8409260725249, 92.0, -1354.9857536604698)
+[08Jul2025 21:43:39.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel joined the game
+[08Jul2025 21:48:24.931] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Manuel lost connection: Timed out
+[08Jul2025 21:48:24.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel left the game
