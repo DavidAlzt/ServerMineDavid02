@@ -71,6 +71,7 @@
       "minecraft:birch_forest": "2025-06-11 20:23:48 +0000",
       "minecraft:windswept_hills": "2025-06-09 03:48:06 +0000",
       "minecraft:bamboo_jungle": "2025-06-23 22:31:23 +0000",
+      "minecraft:wooded_badlands": "2025-07-08 22:09:24 +0000",
       "minecraft:beach": "2025-06-08 17:45:21 +0000",
       "minecraft:stony_peaks": "2025-06-11 20:59:13 +0000",
       "minecraft:dark_forest": "2025-06-24 19:55:23 +0000",
@@ -478,6 +479,7 @@
       "frozen_pine_taiga": "2025-06-28 22:48:24 +0000",
       "tropical_river": "2025-07-01 21:35:57 +0000",
       "magnolia_highlands": "2025-06-11 20:21:14 +0000",
+      "eucalyptus_forest": "2025-07-08 22:09:46 +0000",
       "outback": "2025-07-01 21:35:01 +0000",
       "mountains": "2025-06-11 20:40:48 +0000",
       "sparse_redwoods": "2025-07-06 04:21:58 +0000",
@@ -528,6 +530,7 @@
       "frozen_pine_taiga": "2025-06-28 22:48:24 +0000",
       "tropical_river": "2025-07-01 21:35:57 +0000",
       "magnolia_highlands": "2025-06-11 20:21:14 +0000",
+      "eucalyptus_forest": "2025-07-08 22:09:46 +0000",
       "outback": "2025-07-01 21:35:01 +0000",
       "mountains": "2025-06-11 20:40:48 +0000",
       "sparse_redwoods": "2025-07-06 04:21:58 +0000",
@@ -11199,6 +11202,12 @@
   "jeg:blossom_rifle": {
     "criteria": {
       "Item": "2025-07-07 05:53:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-07-08 21:57:26 +0000"
     },
     "done": true
   },

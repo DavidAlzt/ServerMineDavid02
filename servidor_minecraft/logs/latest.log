@@ -303,3 +303,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [08Jul2025 21:43:39.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel joined the game
 [08Jul2025 21:48:24.931] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Manuel lost connection: Timed out
 [08Jul2025 21:48:24.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel left the game
+[08Jul2025 22:00:09.454] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Manuel[/127.17.69.253:34431] logged in with entity id 5696 at (363.9826356734914, 133.0, 830.6246035779853)
+[08Jul2025 22:00:09.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel joined the game
+[08Jul2025 22:14:03.543] [Server thread/WARN] [tombstone/]: The death event of the player Manuel was canceled by another mod
+[08Jul2025 22:14:03.546] [Server thread/INFO] [tombstone/]: The player Manuel has successfully been saved
