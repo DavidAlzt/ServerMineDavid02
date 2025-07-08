@@ -318,3 +318,63 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [08Jul2025 22:23:11.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel joined the game
 [08Jul2025 22:23:41.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Manuel lost connection: Timed out
 [08Jul2025 22:23:41.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel left the game
+[08Jul2025 22:52:59.955] [Server thread/WARN] [tombstone/]: The death event of the player MirsWATF was canceled by another mod
+[08Jul2025 22:52:59.958] [Server thread/INFO] [tombstone/]: The player MirsWATF has successfully been saved
+[08Jul2025 22:53:09.869] [Server thread/WARN] [tombstone/]: The death event of the player MirsWATF was canceled by another mod
+[08Jul2025 22:53:16.075] [Server thread/WARN] [tombstone/]: The death event of the player MirsWATF was canceled by another mod
+[08Jul2025 22:53:16.084] [Server thread/INFO] [tombstone/]: The player MirsWATF has successfully been saved
+[08Jul2025 22:53:26.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF was slain by  molluto  ❤97
+[08Jul2025 22:53:26.877] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MirsWATF with unique ID travelersbackpack.creeper_08.07.2025-22.53.26.dat
+[08Jul2025 22:54:12.332] [Server thread/WARN] [tombstone/]: The death event of the player MirsWATF was canceled by another mod
+[08Jul2025 22:54:12.335] [Server thread/INFO] [tombstone/]: The player MirsWATF has successfully been saved
+[08Jul2025 22:54:21.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF died
+[08Jul2025 22:54:21.190] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MirsWATF with unique ID travelersbackpack.creeper_08.07.2025-22.54.21.dat
+[08Jul2025 22:54:30.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MirsWATF> DS
+[08Jul2025 22:56:07.624] [Server thread/WARN] [tombstone/]: The death event of the player MirsWATF was canceled by another mod
+[08Jul2025 22:56:07.635] [Server thread/INFO] [tombstone/]: The player MirsWATF has successfully been saved
+[08Jul2025 22:56:15.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF was slain by  molluto  ❤2
+[08Jul2025 22:56:15.166] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MirsWATF with unique ID travelersbackpack.creeper_08.07.2025-22.56.15.dat
+[08Jul2025 22:56:39.549] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MollutoEntity[' molluto  ❤0'/25774, l='ServerLevel[world]', x=-42.82, y=73.00, z=-2423.34] died:  molluto  ❤0 was slain by MirsWATF
+[08Jul2025 22:57:30.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2544ms or 50 ticks behind
+[08Jul2025 22:59:18.683] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MirsWATF lost connection: Disconnected
+[08Jul2025 22:59:18.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF left the game
+[08Jul2025 22:59:46.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08Jul2025 22:59:46.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Jul2025 22:59:46.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Jul2025 22:59:46.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Jul2025 22:59:46.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Jul2025 22:59:46.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Jul2025 22:59:46.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/gamma_creatures:gamma_dimension
+[08Jul2025 22:59:46.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[08Jul2025 22:59:46.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[08Jul2025 22:59:46.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[08Jul2025 22:59:46.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[08Jul2025 22:59:46.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Jul2025 22:59:46.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[08Jul2025 22:59:46.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[08Jul2025 22:59:46.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[08Jul2025 22:59:46.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[08Jul2025 22:59:46.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[08Jul2025 22:59:46.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[08Jul2025 22:59:46.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[08Jul2025 22:59:46.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[08Jul2025 22:59:47.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Jul2025 22:59:47.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Jul2025 22:59:47.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gamma_dimension): All chunks are saved
+[08Jul2025 22:59:47.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[08Jul2025 22:59:47.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[08Jul2025 22:59:47.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[08Jul2025 22:59:47.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[08Jul2025 22:59:47.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Jul2025 22:59:47.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[08Jul2025 22:59:47.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[08Jul2025 22:59:47.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[08Jul2025 22:59:47.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[08Jul2025 22:59:47.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[08Jul2025 22:59:47.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[08Jul2025 22:59:47.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[08Jul2025 22:59:47.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[08Jul2025 22:59:47.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Jul2025 22:59:47.190] [Server thread/INFO] [Framework/]: Unloading server configs...
+[08Jul2025 22:59:47.192] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[08Jul2025 22:59:47.195] [Server thread/INFO] [Framework/]: Finished unloading server configs
