@@ -295,3 +295,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [09Jul2025 02:37:13.618] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/1901, l='ServerLevel[world]', x=1028.20, y=65.00, z=2591.24] died, message: 'Butcher was slain by Vindicator'
 [09Jul2025 02:37:15.737] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/1905, l='ServerLevel[world]', x=1043.50, y=72.94, z=2608.64] died, message: 'Nitwit blew up'
 [09Jul2025 02:38:56.578] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=695, y=-28, z=2351}
+[09Jul2025 02:47:55.742] [Server thread/WARN] [tombstone/]: The death event of the player MirsWATF was canceled by another mod
+[09Jul2025 02:47:55.776] [Server thread/INFO] [tombstone/]: The player MirsWATF has successfully been saved
+[09Jul2025 02:48:08.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF blew up
+[09Jul2025 02:48:08.791] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MirsWATF with unique ID travelersbackpack.creeper_09.07.2025-02.48.08.dat
