@@ -4950,3 +4950,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [09Jul2025 02:32:15.120] [Server thread/DEBUG] [io.netty.util.internal.ThreadLocalRandom/]: -Dio.netty.initialSeedUniquifier: 0x8ed1de6e4c9dace1
 [09Jul2025 02:32:19.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jul2025 02:32:19.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 02:36:31.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2587ms or 51 ticks behind
+[09Jul2025 02:36:32.033] [Worker-Main-19/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09Jul2025 02:36:32.034] [Worker-Main-19/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09Jul2025 02:36:32.034] [Worker-Main-19/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from repurposed_structures-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09Jul2025 02:36:32.709] [Worker-Main-14/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[09Jul2025 02:36:32.711] [Worker-Main-14/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[09Jul2025 02:36:35.289] [Worker-Main-29/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[09Jul2025 02:36:59.123] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/1904, l='ServerLevel[world]', x=1024.45, y=73.00, z=2601.50] died, message: 'Mason was slain by Vindicator'
+[09Jul2025 02:36:59.619] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/1907, l='ServerLevel[world]', x=1027.19, y=72.50, z=2602.91] died, message: 'Mason was slain by Vindicator'
+[09Jul2025 02:37:13.618] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/1901, l='ServerLevel[world]', x=1028.20, y=65.00, z=2591.24] died, message: 'Butcher was slain by Vindicator'
+[09Jul2025 02:37:15.737] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/1905, l='ServerLevel[world]', x=1043.50, y=72.94, z=2608.64] died, message: 'Nitwit blew up'
+[09Jul2025 02:37:21.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 02:37:21.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 02:38:56.578] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=695, y=-28, z=2351}
+[09Jul2025 02:42:21.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 02:42:21.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

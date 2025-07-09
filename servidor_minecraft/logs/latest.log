@@ -289,3 +289,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [09Jul2025 02:27:19.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [09Jul2025 02:32:14.201] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MirsWATF[/127.137.229.16:41539] logged in with entity id 932 at (943.2659502559106, 94.0, -1345.8336647755493)
 [09Jul2025 02:32:14.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF joined the game
+[09Jul2025 02:36:31.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2587ms or 51 ticks behind
+[09Jul2025 02:36:59.123] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/1904, l='ServerLevel[world]', x=1024.45, y=73.00, z=2601.50] died, message: 'Mason was slain by Vindicator'
+[09Jul2025 02:36:59.619] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/1907, l='ServerLevel[world]', x=1027.19, y=72.50, z=2602.91] died, message: 'Mason was slain by Vindicator'
+[09Jul2025 02:37:13.618] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/1901, l='ServerLevel[world]', x=1028.20, y=65.00, z=2591.24] died, message: 'Butcher was slain by Vindicator'
+[09Jul2025 02:37:15.737] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/1905, l='ServerLevel[world]', x=1043.50, y=72.94, z=2608.64] died, message: 'Nitwit blew up'
+[09Jul2025 02:38:56.578] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=695, y=-28, z=2351}
